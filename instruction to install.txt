@@ -1,0 +1,16 @@
+Go to My Computer and click properties
+Then Advanced
+Then Environment variables
+Click New 
+Variable Name LM_LICENSE_FILE
+Variable value C:\Fluent.Inc\license\license.dat
+
+If fluent ask for server name type your computer name
+
+Install Gambit
+Install Fluent
+Install Exceed CLick fine tuning during installation
+
+After installation copy the license.dat file and paste it into C:Fluent\license folder
+
+if there is any error open the license folder and check the file size it might have changed to 1kb instead of 15 kb then again copy license file and put it into the folder

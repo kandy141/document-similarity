@@ -1,0 +1,8 @@
+ISBN: 0071418202
+Title: Electrical Engineer's Portable Handbook
+Author: Robert B. Hickey
+Publisher: McGraw-Hill Professional
+Publication Date: 2003-09-26
+Number Of Pages: 575
+
+The first edition of this title proved the most successful of the Portable Handbook series launched in 1999. Aimed at electrical engineers and technicians working in building power systems, the relentlessly practical Handbook succeeded as an in the field working tool. This new edition is necessitated by the new 2002 version of the National Electrical Code (NEC). This code changes render much of the existing material obsolete, so over half the chapters require heavy rewrites to stay current

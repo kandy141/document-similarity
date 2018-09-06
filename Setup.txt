@@ -1,0 +1,7 @@
+To setup the NorthwindDatabase webservice do the following:
+1. Copy the NorthwindDatabase folder under your c:\inetpub\wwwroot directory
+2. Open the Management Console and locate the "Default Website" under "Internet Information Services"
+3. Open the property page on the NorthwindDatabase by right clicking properties on the directory in the management console
+4. Select the directory tab and click "Create" next to the application name.
+5. Close the console
+6. Open the solution file from the samples directory

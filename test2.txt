@@ -1,0 +1,33 @@
+Microsoft unveils Windows 8 consumer preview
+Software giant Microsoft has unveiled a beta version of its upcoming Windows 8 operating system (OS) for consumers to install and try out.
+The new software is designed to work on tablets and on traditional computers, and will replace Microsoft Windows 7.
+The look and the feel of the Windows 8 operating system have been making the rounds on online technology forums for some months now. The ‘tiles' start-up screen, which has already been seen on Windows Mobile 7.5 OS phones and has won kudos, returns on the Windows 8.0. Apart from that, other improvements in design border on the minimalistic trend that has become the industry watchword for interface design over the past decade. 
+It also features an entirely new interface, called Metro, which borrows heavily from Microsoft's Windows Phone platform, as well as a slightly updated version of the conventional Windows 7 desktop version that runs in a separate mode.The firm has replaced the iconic button with a much more angular design that changes colour depending on which theme a user chooses. The new Metro interface features 'Live tiles' which update users on their contacts social media feeds and show pictures from the device or photo galleries online. It also features a unique 'semantic zoom' technology which means that, say, a list of search results changes to give more detailed information as a user zooms in to show a selection of results.
+The basic system requirements to run Windows 8 consumer preview are: 1 GHz or faster processor, 1 GB RAM (for the 32 bit version)/ 2 GB RAM (64 bit), 16 GB hard-disk space (32 bit) or 20 GB (64 bit), DirectX 9 graphics device with WDDM 1 or higher driver and a minimum screen resolution of 1024 X 768 pixels.
+The free preview will be available soon to 'early adopters' so Microsoft can test features and fix problems. The preview can be downloaded at http://preview.windows.com.
+PIC:windows.jpeg
+Now, a computer which responds to students' emotions!
+Scientists in the US say they have developed a computer which can respond to students' emotions and boredom. 
+A team from University of Notre Dame, the University of Memphis and Massachusetts Institute of Technology has in fact come up with what they claim is the 'emotion-sensing' computer software that models and responds to students' cognitive and emotional states, including frustration and boredom. 
+The new technology, that matches the interaction of human tutors, not only offers tremendous learning possibilities for students, but also redefines human-computer interaction, the scientists say in a release. 
+Known as 'AutoTutor' and 'Affective AutoTutor', the programme can gauge the student's level of knowledge by asking probing questions; analysing the student's responses to those questions; proactively correcting misconceptions; responding to the student's own questions. 
+The programme can even sense a student's frustration or boredom via facial expression and body posture and dynamically changing its strategies to help the student conquer those negative emotions, say the scientists. 
+'Most of the 20th century systems required humans to communicate with computers through windows, icons, menus and pointing devices. But humans have always communicated with each other through speech and a host of nonverbal cues such as facial expressions, eye contact, posture and gesture. 
+'In addition to enhancing the content of the message, the new technology provides information regarding the cognitive states, motivation levels and social dynamics of the students,' team leader Sidney D'Mello said. 
+D'Mello added: 'Much like a gifted human tutor, AutoTutor and Affective AutoTutor attempt to keep the student balanced between the extremes of boredom and bewilderment by subtly modulating the pace, direction and complexity of the learning task.' 
+PIC:emotions.jpeg
+Bangalore City Station boasts of BluFi
+The Bangalore City Railway Station on Friday became the first in the railway network to offer BluFi, a combination of Bluetooth and Wi-Fi that will provide passengers with a wealth of information. 
+The facility was launched by Railtel Corporation of India in collaboration with TeleBrahma, a mobile advertising solutions provider.
+Launching the facility, South Western Railway's Bangalore Divisional Railway Manager Sudhanshu Mani termed it another step to enhance passenger comfort. Bangalore being India's IT capital, it deserved to be the first in the country to offer the facility.
+While Telebrahma provides the Bluetooth solution, Railtel offers free Wi-Fi facility. Railtel General Manager K. Manohar Raja said: “RailWire is a pilot retail broadband initiative by Railtel to provide affordable, high-quality internet connectivity to the masses.”
+To get Internet access, passengers should send their mobile numbers through the Wi-Fi registration portal. The passwords would be sent through SMS. A passenger could use Internet for 45 minutes; if he wished to continue, he had to start a fresh session. 
+B.R. Ravi, Chief Operating Officer and co-founder of TeleBrahma, said that while Bluetooth worked on all Bluetooth-enabled mobiles, Wi-Fi worked on Wi-Fi-enabled handsets and laptops.
+Senior Divisional Commercial Manager Y.N. Babu and Divisional Commercial Manager N. Raghuraman, who piloted the initiative, were present. 
+PIC:blufi.jpeg
+AICTE: No new engineering/management institutes from 2014
+The rise in the number of vacant engineering and management seats may result in stopping new professional institutes from coming up from 2014. This decision has been taken by the All-India Council for Technical Education (AICTE) in accordance to the requests by various states to stop permissions to new institutes.
+States such as Maharashtra, Andhra Pradesh, Karnataka, Tamil Nadu, Haryana and Chhattisgarh had asked AICTE to act against the applications for upcoming engineering and management institutes immediately. But AICTE has decided to wait untill 2014 for the institutes that are already in the developing process.
+According to AICTE’s estimation, nearly three lac engineering and management seats were left empty in 2011. As this number is rising drastically, many states, despite AICTE’s decision, have concluded not to allow colleges to start this year.
+Maharashtra has the highest number of new applicants, shows AICTE report. However, the report also shows a decline in the number of applicants which may drop to zero in the next two years.
+PIC:aicte.jpeg

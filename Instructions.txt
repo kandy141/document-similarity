@@ -1,0 +1,343 @@
+
+         .____     ___.  ___.   .__            ._   _.                  ___.
+        /  __ \____\_ |__\_ |__ |__|_ __  ____ | |_| | ____   ____   __| _/
+        | /_/ /  _ \| __ \| __ \|  | '_ \/ __ \|  _  |/  _ \ /  _ \ / __ |
+        |  _ (  <_> ) \_\ \ \_\ \  | | |/ /_/  > | | (  <_> |  <_> ) /_/ |
+        | | \_\____/|___  /___  /__|_| |\___  /|_| |_|\____/ \____/\____ |
+        \/Warez-4-Sharez\/    \/Presentz/____/  Thnx-to-the-united-Scene\/
+
+
+    .-._______                                                       _______.-.
+---( )_)______)   Adobe CS5 All Products Keymaker v1.10 (Windows)   (______(_( )---
+  (    ()___)                                                         (___()    )
+       ()__)                                                           (__()
+--(___()_)                                                               (_()___)--
+
+
+<--------------------------------------------------------------------------------->
+<--------------------------------------------------------------------------------->
+
+
+
+Help, Troubleshooting, General info:
+************************************
+1. You may need an Administrator account to use the keymaker
+   (right-click on the keymaker and choose 'Run as Administrator').
+
+2. If the keymaker is detected/blocked by your antivirus software then 
+   add it to the exclusions lists of real-time protection and auto-scan. 
+   You may need to temporarily disable real-time protection and auto-scan 
+   when adding the keymaker to the exclusions lists, or when using the keymaker.
+
+3. If the keymaker is removed by your antivirus software then restore and exclude 
+   it through your antivirus software (Quarantaine, History, or something similar). 
+
+4. To manually reset the Adobe registration, search for cache.db in Windows Finder 
+   and make sure to include system files. Delete all cache.db files related to 
+   Adobe products (only).
+
+5. Not tested if Acrobat X Pro 10 is updateable when using the Adobe CS5 All 
+   Products Keymaker v1.10, but confirmed by some people is that updating is 
+   only possible when using the Adobe CS5 Products Activator by MPT (Fixed).
+
+
+
+Important notes (unless you want to risk updating Adobe):
+*********************************************************
+1. Block internet access for the program by using e.g. a firewall: 
+   > Block internet access through 'Program Control' from your firewall.
+   > Or set your firewall 'Program Control' to 'Ask what to do/Decide yourself'.
+
+2. Make sure to block internet access for e.g.:
+   C:\Program Files\Adobe\Acrobat 10.0\Acrobat\...   
+   (Permanently block any attempt of Acrobat 10 to connect to internet.) 
+
+3. Do NOT update Acrobat 10 (do NOT check for program updates)!
+
+4. If available, uncheck/disable the option 'Check for updates automatically'.
+
+
+
+Installation notes:
+*******************
+>> Disconnect internet during installation, and/or make sure to BLOCK internet 
+   access for the program (block unwanted traffic by using e.g. a firewall).
+
+
+1. Prior to running an installer, run 'Adobe Activation Enabler' (.bat or .exe) 
+   to patch the hosts file to prevent de-activation. Also the patch button from 
+   the keymaker can be used to patch the hosts file, or do it manually 
+   (see the notes below). >> You only need to do this once.
+
+2. Install Adobe Acrobat X Pro 10 as trial or enter a valid serial.
+
+3. Run the keymaker, click the 'Patch Hosts File' button, and choose 
+   version Adobe Acrobat Pro X v.10.x 
+
+4. Copy the serial from the keymaker and paste it to the program.
+
+Note: 
+*****
+If the serial is not accepted during installation then install as trial, 
+and register after installation.
+
+
+
+If Acrobat X Pro 10 (still) won't accept the serial:
+****************************************************
+1. Disconnect from Internet.
+
+2. Delete folder 
+   C:\Documents and Settings\All Users\Application Data\regid.1986-12.com.adobe
+
+3. Check if all the lines below are added to the hosts file. 
+   If the lines below are not added to the hosts file then add the lines below. 
+
+4. After having added the lines to the hosts file insert a new (generated) serial.
+
+
+
+To manually edit and patch the hosts file:
+******************************************
+Default location hosts file:
+>> Windows: C:\WINDOWS\system32\drivers\etc\hosts
+>> MAC....: .../private/etc/hosts)
+
+>> You may need to edit the hosts file using an Administrator account.
+
+>> You may need to temporarily disable your antivirus in order to edit 
+   the hosts file.
+ 
+1. By default the hosts file is set to 'Read-only'. To be able to save
+   changes of the hosts file UNcheck the 'Read-only' box at file properties:
+   right-click on the hosts file, choose 'Properties', and UNcheck 'Read only'.   
+   
+2. Open the hosts file with Notepad: right-click on the hosts file and choose 
+   'Open with Notepad'. (Make sure that the box 'Always open with' is UNchecked, 
+   so that the hosts file is opened just once with Notepad.)
+
+3. Add the following lines to your hosts file, and apply & save the changes:
+127.0.0.1       activate.adobe.com
+127.0.0.1       activate-sjc0.adobe.com
+127.0.0.1       adobeereg.com
+127.0.0.1       practivate.adobe.com
+127.0.0.1       ereg.adobe.com
+127.0.0.1       www.adobeereg.com
+127.0.0.1       activate.wip3.adobe.com
+127.0.0.1       wip3.adobe.com
+127.0.0.1       3dns-3.adobe.com
+127.0.0.1       3dns-2.adobe.com
+127.0.0.1       adobe-dns.adobe.com
+127.0.0.1       adobe-dns-2.adobe.com
+127.0.0.1       adobe-dns-3.adobe.com
+127.0.0.1       ereg.wip3.adobe.com
+127.0.0.1       activate-sea.adobe.com
+127.0.0.1       wwis-dubc1-vip60.adobe.com
+127.0.0.1       activate-sjc0.adobe.com
+127.0.0.1       wwis-dubc1-vip60.adobe.com
+127.0.0.1       192.150.18.108
+
+4. The hosts file can be set back to 'Read-only' when done. (Note that addresses
+   added to the hosts file will be blocked for all your software.)
+
+
+
+Note:
+***** 
+Instead of editing your hosts file, also you may these addresses to your 
+firewall ip blocklist:
+127.0.0.1       activate.adobe.com
+127.0.0.1       activate-sjc0.adobe.com
+127.0.0.1       adobeereg.com
+127.0.0.1       practivate.adobe.com
+127.0.0.1       ereg.adobe.com
+127.0.0.1       www.adobeereg.com
+127.0.0.1       activate.wip3.adobe.com
+127.0.0.1       wip3.adobe.com
+127.0.0.1       3dns-3.adobe.com
+127.0.0.1       3dns-2.adobe.com
+127.0.0.1       adobe-dns.adobe.com
+127.0.0.1       adobe-dns-2.adobe.com
+127.0.0.1       adobe-dns-3.adobe.com
+127.0.0.1       ereg.wip3.adobe.com
+127.0.0.1       activate-sea.adobe.com
+127.0.0.1       wwis-dubc1-vip60.adobe.com
+127.0.0.1       activate-sjc0.adobe.com
+127.0.0.1       wwis-dubc1-vip60.adobe.com
+127.0.0.1       192.150.18.108
+
+Or, depending on your firewall, add the addresses like this:
+192.150.18.108-192.150.18.108
+
+
+
+
+The keymaker works with all the following products:
+***************************************************
+Adobe Acrobat Pro v9.x/v10.x
+Adobe After Effects CS5
+Adobe After Effects CS4
+Adobe Captivate v5.x
+Adobe Coldfusion Builder v1.x
+Adobe ColdFusion Enterprise v9.x
+Adobe Contribute CS5
+Adobe Contribute CS4
+Adobe Creative Suite 5 Design Premium
+Adobe Creative Suite 5 Master Collection
+Adobe Creative Suite 4 Master Collection
+Adobe Creative Suite 5 Production Premium
+Adobe Creative Suite 5 Web Premium
+Adobe Director v11.x
+Adobe Dreamweaver CS5
+Adobe Dreamweaver CS5 GR
+Adobe Dreamweaver CS4
+Adobe Dreamweaver CS4 GR
+Adobe Dreamweaver CS4 ME
+Adobe Dreamweaver CS4 NA
+Adobe eLearning Suite v2.x
+Adobe Fireworks CS5
+Adobe Fireworks CS4
+Adobe Flash Builder v4.x
+Adobe Flash Catalyst CS5
+Adobe Flash Pro CS5
+Adobe Flash Pro CS4
+Adobe Illustrator CS5
+Adobe Illustrator CS5 GR
+Adobe Illustrator CS4
+Adobe Illustrator CS4 GR
+Adobe Illustrator CS4 ME
+Adobe Illustrator CS4 NA
+Adobe InCopy CS5
+Adobe InCopy CS5 GR
+Adobe InCopy CS4
+Adobe InCopy CS4 ME
+Adobe InCopy CS4 NA
+Adobe InCopy CS4 GR
+Adobe InDesign CS5
+Adobe InDesign CS5 GR
+Adobe InDesign CS5 Server
+Adobe InDesign CS4
+Adobe InDesign CS4 ME
+Adobe InDesign CS4 NA
+Adobe InDesign CS4 GR
+Adobe LiveCycle Data Services ES2
+Adobe Photoshop Elements v9.x
+Adobe Photoshop Elements v8.x
+Adobe Photoshop Lightroom v3.x
+Adobe Photoshop Lightroom v2.x
+Adobe Photoshop CS5 Extended
+Adobe Photoshop CS5 Extended GR
+Adobe Photoshop CS4 Extended
+Adobe Photoshop CS4 Extended ME
+Adobe Photoshop CS4 Extended NA
+Adobe Photoshop CS4 Extended GR
+Adobe Premiere Pro CS5
+Adobe Premiere Pro CS4
+Adobe Premiere Elements v9.x
+Adobe Soundbooth CS5
+
+Available languages:
+English / Middle Eastern (ME) / North African (NA) / Greek (GR)
+
+* Administrator privileges required for using the keymaker.
+
+* The keymaker works for all available languages.
+
+
+
+<--------------------------------------------------------------------------------->
+<--------------------------------------------------------------------------------->
+
+
+
+*** When using TPB please read these important notes: 
+*****************************************************
+
+01- AV software may warn about keygens, patches, cracks etc because of their 
+    capabilities and signatures (generating codes, etc). Sometimes also they're 
+    added to the virus/spyware database and will be detected as malware. If not 
+    trusting keygens, patches, cracks etc don't use them.
+
+02- To avoid AV software removing/blocking clean cracks etc: exclude the crack 
+    or folder from being auto-protected & auto-scanned by the AV software.
+
+03- If AV software removed a clean crack usually it can be restored 
+    (if it's not in Quarantaine then look at History or something similar).
+
+04- To avoid risks when using cracks also Sandboxie can be used to test them:
+    http://www.sandboxie.com/
+    http://thepiratebay.org/torrent/4918844/Sandboxie_v3.38___Keys_[RH]
+
+05- Before running .exe-files, keygens, patches, cracks etc always check first 
+    if they can be unpacked. Often some thirth party added a virus to the 
+    original file, repacked it, and uploaded it again.
+
+06- Letting AV software software sending scan results to their companies 
+    can cause keygens, patches, cracks etc being added to their virus-database.
+
+07- Firewalls which are set to automatically decide for connections will allow 
+    connections for lots of apps & MALWARE!. To avoid so firewalls should be set 
+    to decide yourself which connection to allow or not.
+
+08- Clicking on unknown links can coz malware being silently installed on a pc!
+
+09- Usually (new) torrents with extreme many downloads & seeders in a short time 
+    are very suspicious! Torrents with a SKULL-logo are trusted.
+
+10- Some (frustrated) people use multiple accounts and post lots of FAKE comments 
+    and/or files trying to spread confusion. Usually they NEVER seriously reply 
+    on comments and don't have any torrent, or to look reliable just a few.
+
+11- In general often there are more fake & negative comments than reliable & 
+    positive comments.
+
+12- In some countries uploading/downloading copyright-protected material is 
+    forbidden, but showing some appreciation to reliable uploaders is not.
+
+13- Posting FAKE comments & uploads on TPB can result in getting banned from TPB!
+
+
+For reporting bad or suspicious torrents: 
+http://forum.suprbay.org/forumdisplay.php?fid=29
+
+For visiting "TPB's Most Ridiculous Comments": 
+http://forum.suprbay.org/showthread.php?tid=24699
+
+For visiting my TPB account: 
+http://thepiratebay.org/user/RobbingHood/
+
+
+This torrent is scanned with:
+1- Norton Internet Security 
+2- avast! Pro Antivirus
+3- Kaspersky Antivirus
+
+Also scanned with some well known antispyware, and tested in Sandboxie.
+Malware detected by other anti-malware software probably are false positives!
+
+
+<--------------------------------------------------------------------------------->
+
+
+To the "United Reliable The Pirate Bay Users",
+
+Nowadays a lot of TPB members abuse their TPB membership by intenionally posting 
+fake comments & files. Their meaning is just to spread confusion and try to 
+frustrate TPB and it's users. And less downloaders = less seeders = less 
+downloadspeed etc etc. 
+
+It's in the benefit of TPB and all reliable users to warn each other about people 
+who intenionally keep posting fake comments & files. It's an easy answer against 
+those who intenionally keep posting fake comments & files, which is a never 
+ending issue. 
+
+When reporting errors or false positives just keep in mind that what goes up for 
+one does not always goes up for another. That's for both the working of an app 
+and about false positives! Remember: whatever is said, say it constructive! 
+Let's just try to help each other and TPB by thinking about what's said & posted. 
+Things are all up to you, the "United Reliable The Pirate Bay Users"!
+
+
+Enjoy The Pirate Bay
+                                         
+* Status torrent at December 23, 2010 - 01.45 CET: clean, tested & working.

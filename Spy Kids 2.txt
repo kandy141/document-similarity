@@ -1,0 +1,1629 @@
+{933}{963}Hello, everyone.
+{965}{1011}We want to welcome|a very special guest
+{1012}{1039}to our park today
+{1040}{1085}the president's daughter.
+{1087}{1134}Big smile. Big smile.
+{1135}{1170}Hello, Alexandra.
+{1172}{1198}Where's your father?
+{1199}{1242}He'll be here.
+{1244}{1303}I'll make sure of it.
+{1305}{1360}Well, hey there,|little miss first lady,
+{1362}{1428}I'm Dinky Winks, owner|of this fine establishment.
+{1430}{1497}You ready to ride the ride|and shrill to the thrills,|spills, and chills?
+{1498}{1529}Yes, I am.
+{1531}{1578}Right this way!
+{1610}{1697}Of course, that behind me...|the world-famous Whippersnapper.
+{1698}{1769}- Guaranteed to make|grown men howl
+{1771}{1816}- Like a cub woke|at weaning time.
+{1818}{1871}Over on our left...
+{1884}{1961}The NerveWracker...|oh-ho, painful.
+{1982}{2012}Good fun.
+{2014}{2054}On your other left
+{2056}{2133}is, well,|my personal favorite
+{2135}{2164}the Vomiter.
+{2166}{2194}Now, we tell people
+{2196}{2246}not to ride it|on a full stomach,
+{2248}{2284}but you know folks.
+{2286}{2345}They just don't listen.
+{2378}{2412}But...
+{2413}{2464}why bother with any|of those?
+{2466}{2531}You're here|for my latest and greatest.
+{2533}{2598}For your personal amusement|and complete gratification,
+{2600}{2664}I humbly offer...
+{2665}{2712}the Juggler.
+{2830}{2872}But is it fast?
+{2873}{2916}Is it fast?
+{2917}{2961}Well, let's see, shall we?
+{2963}{3048}The riders are strapped|into the bubble.
+{3092}{3189}The hydrobot lifts the bubble|high into the air.
+{3236}{3268}And spins it round and round|as fast
+{3269}{3358}as the United States government|will allow.
+{3440}{3531}The bubble spins, turns,|flips, and bounces.
+{3570}{3635}And then... it juggles you.
+{3852}{3901}I want to go on!
+{3921}{3961}I thought so.
+{3963}{4023}Now, understand - the override|precautions are top-notch,
+{4025}{4070}modified by yours truly.
+{4072}{4112}I thought her father|was supposed to be here.
+{4114}{4167}The president|has more pressing business
+{4168}{4200}than to spend|an entire Sunday
+{4202}{4245}in a theme park.
+{4247}{4300}No one's that busy.
+{4355}{4401}Have fun, kid.
+{4424}{4474}- We'll take it a little slow,
+{4476}{4526}just make it fun.
+{4795}{4825}Can't you get her down?
+{4826}{4870}Somebody's jammed|the override.
+{4871}{4943}Why, that|little troublemaker.
+{4991}{5037}Remain calm.|Remain calm.
+{5039}{5112}We are the Secret Service.|Everything is under control.
+{5114}{5154}- There's nothing|we can do, sir.|- What?
+{5155}{5201}The weight of our agents|will prevent us from ascending
+{5202}{5247}the shaky precipice|on which she now stands.
+{5248}{5291}She'll fall.
+{5291}{5365}Don't we have|any smaller agents?
+{5399}{5478}Bring me agents SK1 and SK2.
+{5479}{5556}- Coming through.|- Coming through.
+{5709}{5742}We're ready.
+{5743}{5793}Use this - the latest gear.
+{5795}{5833}We get to keep them|afterwards?
+{5835}{5866}- N-No.
+{5868}{5892}Yes.
+{5894}{5930}Of course.
+{5931}{5972}Let's rock.
+{6024}{6098}You're sure|they can handle this?
+{6130}{6210}If not,|there are two others who can.
+{6214}{6296}Bring me agents SK3 and SK4|as backup.
+{6362}{6409}We got company.
+{6512}{6601}Gary and Gerti...|what are they doing here?
+{6981}{7018}Excuse me there, sport.
+{7020}{7082}Where did you get that?
+{7083}{7129}Latest|in electro-riser technology,
+{7131}{7191}with new composite materials|and A.I. brainology.
+{7192}{7222}I can see
+{7223}{7270}you don't know|what I'm talking about.
+{7271}{7318}Gary, this is my rescue.
+{7320}{7358}We'll take it from here.
+{7360}{7444}"Latest gear," my butt.
+{7472}{7505}No, no, no!
+{7507}{7571}You'll just make it worse!
+{7605}{7639}Now you done it.
+{7640}{7681}Over here!
+{7683}{7710}Get away from me!
+{7712}{7781}Alexandra, take my hand!
+{7783}{7811}Back off!
+{7813}{7871}I want my father|to come up here and get me.
+{7872}{7925}But he's the president|of the United States.
+{7927}{7955}No, he's my father.
+{7957}{8018}He was my father|before he ever became president,
+{8020}{8069}and he should still|be my father now.
+{8071}{8110}I want him up here!
+{8112}{8150}Sir, we have a situation.
+{8151}{8190}She's got the Transmooker.
+{8192}{8247}This is now|a code-red situation.
+{8248}{8276}Get her down now!
+{8277}{8302}The point is,
+{8304}{8363}you and your father|need to have a talk.
+{8364}{8412}Up here may not be|the best place.
+{8414}{8462}Come with me,|and I promise you,
+{8464}{8521}- The two of you will have|that talk.
+{8523}{8585}How can you promise that?
+{8587}{8625}I'm Level 2.
+{8627}{8698}I can order him|to talk to you.
+{8813}{8845}Hi, Gerti.
+{8846}{8886}Whatcha doing?
+{8888}{8919}I'm trying to stop the ride.
+{8921}{8982}- Without disengaging|the axis?|- Exactly.
+{8984}{9030}Then stop what you're doing.
+{9031}{9113}You see, the ride|is designed to work|like a giant magnet.
+{9115}{9153}If you reverse|the polarization,
+{9155}{9236}bye-bye,|president's daughter.
+{9373}{9420}See you around.
+{9479}{9523}- Okay.
+{9525}{9554}Wait.
+{9555}{9615}I took this from|my father's office this morning.
+{9617}{9658}I'm sure he'll want it back.
+{9677}{9711}Careful!
+{9713}{9772}Look, Cortez, you take her down,|and I'll take this down.
+{9774}{9808}That way, we both look good.
+{9809}{9886}I'm not doing this|for looks, Gary.
+{10007}{10075}Thank goodness|you're all right, Alexandra.
+{10076}{10110}We were worried sick.
+{10112}{10163}- Boys.
+{10183}{10268}I think this|is what you're looking for.
+{10300}{10356}She swiped it|from the president.
+{10357}{10417}Oh, you're in big trouble|this time, missy.
+{10444}{10474}Wait a minute.
+{10476}{10522}I promised her|she could talk to her father.
+{10524}{10570}Oh, she'll talk to him,|all right.
+{10572}{10633}We'll make sure of that.
+{12049}{12123}So, you want|the Ukata assignment, huh?
+{12125}{12191}Your duties are assigned|to you by the agency
+{12193}{12236}same as everyone,|same as me.
+{12237}{12302}I know. It's just|that we've learned so much.
+{12304}{12368}Juni and I are more|than capable of taking|bigger assignments.
+{12370}{12405}But that's not|your decision to make.
+{12407}{12445}The Spy Kids organization|is still new,
+{12447}{12488}and if you're a Level 3|or even a Level 2,
+{12488}{12553}you cannot|go on a mission alone.
+{12555}{12617}You need more experience.
+{12627}{12655}Come on.
+{12657}{12711}Okay, Mom, if you're looking|for top-secret information,
+{12713}{12747}just go straight|to the source.
+{12773}{12809}Welcome to the Pentagon.
+{12811}{12878}How did you do that?|You can't do that.
+{12879}{12912}There is no hacking|in this household.
+{12914}{12949}I know. Sorry.
+{12951}{13023}Show me that again.
+{13101}{13206}I know this hair thing|is one of my weakest points.
+{13207}{13240}- Wait one minute.
+{13242}{13309}You're gonna look cool.
+{13311}{13394}In fact, you're looking cooler,|right? Like me.
+{13395}{13438}Like Poppy.
+{13439}{13539}And it's kind|of em-o-tion-al to me.
+{13540}{13579}You know? Uh-oh.
+{13581}{13616}A knot.
+{13617}{13664}We are gonna...
+{13687}{13711}You...
+{13712}{13765}Uh-huh, uh-huh.|We got it.
+{13767}{13807}That's my boy.
+{13809}{13844}Last touch.
+{13845}{13893}Hup, hup.
+{13895}{13946}You want me|to tie it for you?
+{13948}{14027}No, it's okay.|R.A.L.P.H. can do it.
+{14078}{14127}Bow tie, R.A.L.P.H.,
+{14129}{14181}and not too tight.
+{14463}{14515}Thanks, R.A.L.P.H.
+{14591}{14613}Interesting.
+{14615}{14638}But...
+{14640}{14744}he can never, ever|replace...
+{14745}{14784}me.
+{14785}{14813}Pow.
+{14814}{14839}Not yet, but I think
+{14841}{14920}that new upgrade|comes in next week.
+{15005}{15066}Only joking.
+{15068}{15109}Hey!
+{15161}{15201}Kids. Kids. Kids. Kids.
+{15204}{15253}Ki
+{15255}{15310}Joking?
+{15342}{15370}Thank you.
+{15372}{15402}Yes, ma'am.
+{15403}{15432}Okay. Remember, kids,
+{15434}{15497}this is a very important night|for your father.
+{15499}{15563}And if he's named director|of the O.S.S.,
+{15565}{15622}be sure to stand up|and give him a big hug,
+{15624}{15655}all right?
+{15657}{15707}What if Dad doesn't win?
+{15709}{15785}Well, then,|give him a bigger hug.
+{15887}{15920}Oh, Yao Ling, Wa Ling,
+{15921}{15968}this is Danielle|and Dione Daluc.
+{15970}{16000}- Hello.|- Hi.
+{16002}{16081}They created lnfolink, sort of|an online trading system
+{16083}{16160}for swapping|international secrets.
+{16205}{16244}Hi.
+{16246}{16283}Oh, hey.
+{16285}{16316}Hello.
+{16318}{16338}Champagne?
+{16340}{16366}Can't have any of that.
+{16367}{16407}Sorry.
+{16455}{16527}Something doesn't feel right.
+{16529}{16569}No wonder...|your buddy's here
+{16571}{16612}your buddy|with the weird laugh.
+{16613}{16642}He does not have|a weird laugh.
+{16644}{16723}We were just...|talking about you.
+{16724}{16759}Really?
+{16804}{16851}Wow.|You look great, Carmen.
+{16853}{16909}- You want to dance?|- Sure.
+{16911}{16968}I don't think that's|a good idea, Gary.
+{16970}{17034}Family rules say you need to|ask my father's permission.
+{17036}{17101}You know, you should have had|that suit tailored, Juni.
+{17103}{17143}It's bunching up|around your gut,
+{17144}{17187}and it makes your head|look way too big.
+{17188}{17256}You have to excuse|my little brother.
+{17258}{17335}He's still a little upset|about the... Juggler incident.
+{17337}{17411}A good agent|controls his temper.
+{17458}{17495}Just be glad|my dad isn't here.
+{17496}{17550}He gets really psycho|about this sort of thing.
+{17579}{17621}Hi, Dad.
+{17622}{17671}Um, you remember Gary.|He's in our organization.
+{17673}{17730}I was just asking your daughter|for a dance.
+{17731}{17768}You know how to dance?
+{17770}{17794}Fairly well, sir.
+{17796}{17823}What kind of dances?
+{17825}{17853}All types of dances.
+{17855}{17887}- What about tango?|- Yes.
+{17889}{17916}- Mambo?|- Fairly well.
+{17918}{17945}- Rumba?|- Yes.
+{17947}{17973}- Cha-cha-cha?|- Seven steps.
+{17975}{17999}- Bossa nova?|- Mm-hmm.
+{18001}{18062}- Merengue?|- Of course.
+{18157}{18187}What about waltz?
+{18189}{18260}Y-Yeah, I can waltz.
+{18262}{18299}Show me.
+{18352}{18404}Right.
+{18568}{18623}Something like that.
+{18634}{18692}All right.
+{18693}{18748}You can go to dance.
+{18849}{18912}Watch your older sister.
+{19423}{19447}Alexandra?
+{19449}{19471}Yes?
+{19473}{19512}What are you doing in there?
+{19514}{19555}Dancing.
+{19557}{19625}Do you always carry|this many Secret Service around?
+{19627}{19671}My dad's idea
+{19672}{19754}he's gotten|a little... paranoid.
+{19756}{19863}Well, would you dance...|with me?
+{19865}{19895}No.
+{19926}{19978}All right,|hold on a second, guys.
+{19980}{20038}Level 2 - break it up!
+{20087}{20128}Why not?
+{20168}{20226}I only dance...
+{20227}{20262}ballet.
+{20293}{20390}What|an incredible coincidence.
+{20434}{20472}So do l.
+{21182}{21219}Well, Juni, I must say,
+{21221}{21289}you're a man|of many talents.
+{21399}{21439}One tries.
+{21504}{21607}Uh, could you find your seats?|We're ready to start.
+{21660}{21710}I must go.
+{21853}{21883}- Ladies and gentlemen,
+{21885}{21962}the president|of the United States.
+{22046}{22086}Thank you.
+{22144}{22173}I am proud of the O.S.S.
+{22174}{22227}and their newly formed|Spy Kids division.
+{22229}{22295}For their outstanding|accomplishments yesterday.
+{22297}{22349}Gary and Gerti Giggles
+{22350}{22386}not only saved|my daughter...
+{22388}{22452}What is he talking about?|I saved her!
+{22454}{22483}Juni...
+{22485}{22568}But more importantly,|if not most importantly,
+{22570}{22648}they safely retrieved|the Transmooker device
+{22649}{22711}that my daughter accidentally|took from my office
+{22713}{22763}earlier that day.
+{22769}{22823}Now it is my great pleasure|to announce
+{22825}{22898}the new director|of the O.S.S...
+{22929}{22971}Gregor
+{23058}{23114}... Donnagon Giggles.
+{23329}{23368}Gary and Gerti Giggles
+{23370}{23405}are the kind of agents|we need
+{23407}{23467}to turn the O.S.S. around.
+{23469}{23524}I am proud to award them
+{23526}{23616}- These Level 1 badges,
+{23618}{23719}- What?|- Which will enable them|to take on real missions,
+{23721}{23788}something challenging,|like the Ukata assignment.
+{23790}{23824}Yes!
+{23826}{23905}- I wanted that assignment.|This is so unfair.
+{23907}{23962}I am proud to claim them
+{23964}{24043}as our organization's|top Spy Kid operatives!
+{24045}{24076}Something's not right.
+{24078}{24108}And I'm also proud
+{24110}{24180}to claim them, of course,
+{24182}{24229}as my children.
+{24230}{24260}This is all wrong.
+{24261}{24314}To our Spy Kids.
+{24316}{24357}- To our Spy Kids.|- To our Spy Kids.|- To our Spy Kids.
+{24358}{24407}To our Spy Kids.
+{24710}{24745}This...
+{25016}{25072}Secure the perimeter!
+{25086}{25113}Sleepers.
+{25114}{25205}They're after|the Transmooker device!
+{25617}{25661}Take'em down.
+{25865}{25912}- Pull!|- Pull!
+{27161}{27210}Get off, squirt.
+{27318}{27370}Give me that back!
+{29331}{29399}- You all right, sir?|- Yeah.
+{29459}{29494}Come here!
+{29496}{29552}Juni, get off of him!
+{29678}{29729}No, no. They took|the Transmooker device!
+{29731}{29805}They took|the Transmooker device!
+{30367}{30439}- The following|Spy Kid cadets
+{30441}{30504}please report to the psychic|abilities seminar
+{30506}{30582}- Mike Cardenas|and Daniel Duluth.
+{30654}{30700}- It's my turn, too.|- Are you sure?
+{30702}{30770}All right, your last name is?
+{30867}{30910}Hold on a second.
+{30912}{30958}I had the Transmooker|in my hand,
+{30959}{30986}but you know Juni
+{30987}{31035}he wanted to claim it|for himself.
+{31036}{31096}- Okay, that should do it.|Thank you, son.|- Right.
+{31098}{31189}If that Transmooker device|falls into the wrong hands...
+{31190}{31226}we're doomed.
+{31228}{31282}Thank you, Mr. President.|That'll be all.
+{31284}{31319}We're doomed!
+{31319}{31372}Understood, sir.
+{31891}{31926}Here.
+{32265}{32330}"Floop's Fooglie"...
+{32331}{32402}Starring Minion...
+{32404}{32461}and Carmenita...
+{32568}{32612}Thanks.
+{32832}{32891}I was fired.
+{32893}{32924}I know.
+{32926}{32986}I hacked|into the O.S.S. data files
+{32988}{33036}and saw the news.
+{33037}{33089}It was probably my fault,|I suppose.
+{33090}{33143}I'm sorry.
+{33144}{33198}Well, I guess that's that.
+{33200}{33288}Let's go to the tree house.|I got an idea.
+{33347}{33382}I guess|I could always set up
+{33384}{33465}a small detective agency|out here or something.
+{33467}{33522}You're thinking|small again, Juni.
+{33524}{33578}The old tree house
+{33580}{33640}needs another helicopter pad.
+{33642}{33725}It needs a paint job,|is what it needs.
+{33935}{33982}Your name?
+{33983}{34061}Carmen Elizabeth Juanita|Echo Sky Brava Cortez.
+{34063}{34097}- Your name?
+{34099}{34173}Juni Rocket Racer|Rebelde Cortez.
+{34375}{34404}You know...
+{34406}{34472}I'm kind of looking forward|to retirement,
+{34474}{34583}get back to all the projects|and dreams I left behind.
+{34585}{34645}Oh, stop it, Juni.
+{34722}{34780}Look, do you want|your job back or not?
+{34782}{34837}That's right...|reinstated Level 2.
+{34839}{34910}So now we can get back|the missing Transmooker.
+{34911}{34942}How?
+{35238}{35309}Looks like Gary and Gerti|are about to get briefed
+{35310}{35345}on the Ukata assignment.
+{35347}{35402}We should listen in.
+{35444}{35494}Is R.A.L.P.H. still|at your office?
+{35496}{35573}If they haven't|cleaned it out yet.
+{35811}{35874}R.A.L.P.H.,|get to the briefing room.
+{35876}{35959}We need you to spy|on Gary and Gerti.
+{35961}{36025}Make sure no one sees you.
+{36951}{37023}- There is|a Bermuda Triangle of sorts
+{37024}{37056}off the coast|of Madagascar.
+{37056}{37100}As you may remember,|this is an area
+{37101}{37178}where some of our O.S.S. cargo|ships have been disappearing.
+{37180}{37211}Good boy, R.A.L.P.H.
+{37213}{37250}The survivors|of these disappearances
+{37252}{37315}tell delusional tales
+{37317}{37393}of a mysterious island|populated by strange creatures.
+{37395}{37480}Obviously, no land mass|is located anywhere near there,
+{37482}{37559}- So these tales were|dismissed, and the agents fired.
+{37561}{37593}However...
+{37595}{37658}the magnet ship that captured|the Transmooker device
+{37660}{37753}was last seen|in this same area.
+{37755}{37799}So, we need a small ship,
+{37801}{37854}piloted by two small agents
+{37855}{37901}to go in and take|a closer look.
+{37902}{37973}If you find anything|out of the ordinary,
+{37975}{38013}you return,
+{38015}{38058}you report it back here.
+{38060}{38091}- We accept.|- We accept.
+{38093}{38122}You bet we accept.
+{38141}{38214}Come home, R.A.L.P.H.|Good work.
+{38221}{38256}It's a great assignment,
+{38258}{38325}but Gary and Gerti have it,|and I'm fired.
+{38326}{38382}And I'm reassigning you|to the O.S.S.
+{38384}{38445}- Don't tell me|you're hacking into|- Already done.
+{38472}{38495}Level 2 status
+{38497}{38556}reinstated.
+{38558}{38595}Carmen, you can't do this.
+{38597}{38669}I already did it.|I'd take it one step further.
+{38671}{38724}We're assigning ourselves|to the Ukata assignment.
+{38725}{38802}I'm programming a new|destination for Gary and Gerti.
+{38804}{38878}Now, that,|I got to be a part of.
+{38977}{39021}State your name, please.
+{39023}{39073}Gary Giggles.
+{39075}{39118}Access denied.
+{39120}{39181}It knows you're not him.
+{39211}{39251}Confirmed.
+{39295}{39337}New destination?
+{39339}{39382}How about...
+{39383}{39427}Gobi Desert?
+{39429}{39454}Stop it, Juni.
+{39454}{39486}What?
+{39487}{39543}Don't want your boyfriend|to go so far away?
+{39545}{39569}He's not my boyfriend.
+{39571}{39607}Okay, then.
+{39609}{39643}Destination confirmed.
+{39645}{39684}There.|What did we just do again?
+{39686}{39730}We're gonna get|the Transmooker device back
+{39732}{39770}so we can clear your name.
+{39772}{39806}We just have to solve|the case
+{39807}{39854}before anybody finds out|what we're up to.
+{39855}{39914}Are you with me?
+{39916}{39948}Okay.
+{39948}{39994}Then let's go.
+{40171}{40230}- Hello?
+{40280}{40354}Hello?
+{40356}{40397}- Hey, what are you doing|up there?
+{40399}{40442}Sorry, we thought|you were somebody else.
+{40443}{40467}Who gave you a key?
+{40469}{40554}Did you forget|who built you this place?
+{40583}{40639}Come down from there.
+{40770}{40823}I brought you|all-new gadgets.
+{40825}{40887}Check it out...|the very latest spy watch
+{40888}{40921}total communication center,
+{40923}{40958}right there on your wrist.
+{40960}{41021}Cellphone, lnternet access,|satellite TV
+{41023}{41060}you name it.
+{41061}{41108}That baby will do|everything but tell|you what time it is.
+{41110}{41146}It doesn't tell time?
+{41147}{41206}No, there was so much|stuffed into it,
+{41208}{41249}there was no more room|for the clock.
+{41251}{41283}Cool.
+{41284}{41315}Are you sure these are new?
+{41317}{41361}We can't be running around|with outdated equipment.
+{41363}{41418}Close your eyes|and hold out your wrist.
+{41419}{41458}I'm gonna give you
+{41460}{41538}the one gadget|you should always carry.
+{41539}{41587}A rubber band?
+{41588}{41636}No, it's|a Machete elastic wonder.
+{41638}{41676}- It's a rubber band.
+{41678}{41744}Yeah, but it's also|the world's greatest gadget
+{41746}{41804}999 uses...
+{41805}{41838}and the important thing
+{41840}{41923}is you have to figure out|what those uses are... with this.
+{41925}{41952}He's right.
+{41954}{42015}Use number one...|a stylish bracelet.
+{42016}{42066}Use number two...
+{42129}{42208}I'm gonna make a fortune|with these.
+{42384}{42437}Are you sure|this is going to work?
+{42439}{42469}Just be cool.
+{42470}{42554}As far as anybody knows,|you're back on the force.
+{42556}{42606}Hey, Uncle Felix.
+{42629}{42676}I'm not your uncle.
+{42677}{42720}I know. It's just easier|to call you that.
+{42722}{42770}Um, you don't mind, do you?
+{42772}{42819}Of course not.
+{42850}{42891}Well, welcome back, Juni.
+{42893}{42941}Says here|you were reinstated.
+{42943}{42990}Sure does, doesn't it?
+{42991}{43038}He was fired and rehired|all in the same day.
+{43040}{43068}Okay.
+{43069}{43164}Let me bring up the keys|to the DragonSpy Five.
+{43178}{43220}Cake.
+{43222}{43262}6 o'clock.
+{43356}{43420}Wow. You're looking good|with the new gear, Carmen.
+{43422}{43488}- Their latest stuff.|- Very cool...
+{43490}{43536}only we had that weeks ago.
+{43537}{43588}Here's what's really new.
+{43590}{43626}Nanotechnology
+{43628}{43731}everything you're wearing|is right here on my wrist.
+{43733}{43807}It's superaccurate|and, so light.
+{43816}{43851}It even tells time.
+{43853}{43890}How did you get that?
+{43892}{43923}Well, it's all prototype,|Juni.
+{43925}{43976}You can't be running|around with those|mass-produced gadgets.
+{43978}{44010}Just means|everyone's got them.
+{44012}{44060}I always go|with the prototype.
+{44062}{44109}- Sure,|they're a little... buggy,
+{44110}{44144}But I can deal.
+{44145}{44214}I-I accidentally|squashed him
+{44216}{44264}on my way|out of the O.S.S. building.
+{44290}{44322}Sorry about that.
+{44323}{44381}He was outdated, anyway,
+{44382}{44458}so think of it|as a mercy killing.
+{44514}{44550}Gary and Gerti Giggles,
+{44551}{44617}- You have assignment|SElKJu9.
+{44619}{44659}Good luck.
+{44681}{44747}Don't hurt yourselves|with that outdated gear.
+{44749}{44849}Remember, an agent|is only as good as his gadgets.
+{44868}{44896}What?
+{44897}{44948}You have|the Ukata assignment?
+{44950}{45002}Very nice.
+{45004}{45051}You'll love it.
+{45140}{45195}Thanks, Uncle Felix.
+{45217}{45287}I'm not your uncle.
+{45423}{45491}Oh, nice sub.
+{45493}{45579}Welcome|to the DragonSpy DLX...
+{45581}{45640}Seems like they get|more and more sophisticated
+{45641}{45673}each month.
+{45674}{45724}Everything is automated!
+{45726}{45787}- Now picking your nose.
+{45849}{45905}Ugh, little brothers.
+{46050}{46145}Let's check our lunchboxes|for mission updates.
+{46511}{46555}Sorry, R.A.L.P.H.
+{46557}{46631}- You were the best spy|on the force.
+{46633}{46695}Juni, leave it alone.|He's dead.
+{46696}{46744}Thanks to your buddy Gary.
+{46745}{46777}It was an accident.
+{46779}{46847}You like him and believe him?
+{46858}{46928}I don't like him...|that much.
+{47101}{47164}Gary's a bad guy, Carmen.
+{47165}{47217}Maybe I know that.
+{47217}{47263}I think I can change him.
+{47265}{47330}I do not understand you.
+{47332}{47378}And you never will.
+{47380}{47427}- French fry, sir?
+{47429}{47473}Uh! Ow!
+{47474}{47515}Gimme that!
+{47614}{47714}- Strange - tales|of a mysterious island,
+{47716}{47781}disappearing ships,|mysterious creatures,
+{47783}{47836}and yet,|no information anywhere
+{47838}{47887}on the O.S.S. cargo|or the magnet ship.
+{47889}{47939}What's Donnagon doing there?
+{47941}{47991}He wasn't|O.S.S. director yet.
+{47993}{48047}These are old O.S.S. secrets.
+{48048}{48148}And I know just the person|we can call for advice.
+{48176}{48212}Who?
+{48215}{48269}# Who? #
+{48270}{48317}# What? #
+{48319}{48371}# When? #
+{48373}{48423}# Where? #
+{48425}{48461}- # Who? #|- # What? #|- # When? #
+{48463}{48495}- # Where? #|- # And why? #
+{48497}{48525}# I delight in #
+{48527}{48595}- # What... #|- # Do I intend to find? #|- # Find #
+{48597}{48629}# This time? #
+{48631}{48654}- # Run around! #|- # Jumping down! #
+{48656}{48686}# Bounce and bound and... #
+{48688}{48717}# Find another way|to duck and hide #
+{48719}{48742}# This isle of... #
+{48743}{48798}# Dreams #
+{48926}{48965}Hello?
+{48967}{48998}Yes.
+{48999}{49055}- One moment, please.
+{49094}{49127}Cut!
+{49245}{49304}Who is it again?
+{49340}{49421}- Juni Cortez!
+{49422}{49464}- What can I do for you?
+{49466}{49518}I mean,|you've done so much for me.
+{49520}{49553}Your robot counterparts
+{49555}{49611}are the surprise|hit characters of my show!
+{49613}{49653}Say hello.
+{49655}{49714}- # Hello #|- # Hello #
+{49731}{49799}Actually, Carmen wants|a word with Mr. Minion.
+{49801}{49858}Oh. He's right here.
+{50014}{50065}Minion is practicing|a 4-part harmony.
+{50067}{50134}- You have one minute.
+{50237}{50268}Bueno?
+{50270}{50310}How you doing, Minion?
+{50312}{50377}Things are a little Floopy|around here for my taste,
+{50378}{50427}but it's a living.
+{50429}{50487}I need some information|on your favorite subject
+{50489}{50519}the O.S.S.
+{50521}{50551}I need to make a call.
+{50552}{50619}Okay, you ready?
+{50620}{50653}Ukata...
+{50654}{50703}Transmooker...
+{50705}{50749}- The president's|daughter is unavailable.
+{50751}{50774}Manage.
+{50775}{50805}Press "1" to record.
+{50807}{50840}- Mean anything to you?
+{50841}{50927}Smells like the work|of Donnagon Giggles.
+{50948}{50995}He had first contact|with the Transmooker technology.
+{50997}{51048}You think Donnagon's the one|behind all this?
+{51050}{51100}You're talking|to a man with four heads.
+{51102}{51139}Trust me...|the guy is dirt.
+{51140}{51177}What should we look for?
+{51179}{51232}First, find the island.
+{51233}{51291}Then find the Island Man.
+{51293}{51338}That would have been|Donnagon's contact.
+{51340}{51363}Okay.
+{51365}{51394}Thanks, Minion.
+{51396}{51447}Be a good girl|and swat your brother for me.
+{51449}{51490}Oh, I will.
+{51549}{51588}Something's wrong!|Take the wheel!
+{51590}{51637}Got to go.|Good luck!
+{51638}{51698}Slow down! We're nearing|destination zone.
+{51700}{51762}The radius where all|the disappearances occurred|is right...
+{51787}{51819}Here!
+{51909}{51950}We've been shut down!
+{51951}{52023}- Hold onto something!
+{52285}{52377}All power is off...|even the emergency power.
+{52408}{52459}My flashlight|doesn't even work.
+{52461}{52520}We're stuck, aren't we?
+{52549}{52607}Let's get out of here.
+{52630}{52687}Rebreathers.
+{52689}{52732}Rebreathers.
+{52732}{52776}You got to do it by hand.
+{52777}{52817}What next?
+{52859}{52922}- Nope. Hand, Carmen.
+{53024}{53065}Unbelievable.
+{53066}{53119}Low-tech!
+{53278}{53319}Here we go.
+{53938}{54011}Should we travel light|or heavy?
+{54011}{54058}We may not be coming|back down here.
+{54059}{54116}Let's go heavy.
+{54118}{54167}Inflate-a-suits?
+{54169}{54233}We don't have much choice.
+{54317}{54378}At least the masks work.
+{54385}{54469}I think it's because|they're valve-operated,|not electrical-based.
+{54471}{54505}It's so strange.
+{54507}{54552}Good luck.
+{54554}{54591}You too!
+{54591}{54635}Stay close!
+{55142}{55205}Ugh. great.
+{55206}{55240}I'm fat!
+{55242}{55281}Was it supposed to do this?
+{55283}{55338}It has an electrical|automatic shutoff
+{55339}{55374}which didn't work.
+{55376}{55453}Luckily, we ran out of air|before the suits exploded.
+{55455}{55523}Well, we can still laugh.
+{55525}{55567}At what?
+{55569}{55656}At whatever you can imagine|Gary and Gerti are doing
+{55658}{55707}right about now.
+{55941}{55972}Gerti, where are we?
+{55974}{56009}Well...
+{56009}{56056}according|to my coordinates,
+{56058}{56099}- We are...
+{56099}{56142}I think that
+{56336}{56396}Camel poop!
+{56424}{56492}Someone's gonna pay!
+{56494}{56545}Cordezes...
+{56670}{56704}I like your new office.
+{56706}{56762}It's smaller... cozy.
+{56764}{56846}Especially... smaller.
+{56916}{56956}So many successful missions.
+{56958}{56997}Amazing, isn't it?
+{56998}{57036}Remember this one?
+{57038}{57089}Oh. Which mission is that?
+{57091}{57134}- Mexico.
+{57136}{57182}Of course.
+{57234}{57277}Actually,|that was the one mission
+{57279}{57319}we never accomplished.
+{57321}{57343}Ingrid...
+{57345}{57407}don't start|with your parents again.
+{57408}{57459}It's funny|you should mention them.
+{57461}{57542}No. When I mention your|parents, it is the exact|opposite of funny.
+{57543}{57605}- Doesn't it bother|you that we never got|their full blessing?
+{57607}{57669}- Frankly, you deserve another|chance to show them|- All right, all right.
+{57671}{57735}Invite them if you want,|but I won't be here.
+{57736}{57805}Tell them that I had a...|I had to go on another mission,
+{57807}{57872}that - that we're having|a little problem on the moon.
+{57874}{57936}My father loves the moon.
+{58079}{58154}You invited them already,|didn't you?
+{58156}{58193}Mm... define "invite."
+{58195}{58222}Donnagon: Cortezes.
+{58224}{58247}What?
+{58249}{58328}I have some bad news.|May I come in?
+{58353}{58377}- Certainly, sir.|- Yes, sir.
+{58378}{58415}- Great.
+{58580}{58624}Here he is.
+{58802}{58858}Two of|our Spy Kid operatives
+{58860}{58902}- Are lost|on the Ukata assignment.
+{58904}{58935}Your children had|that assignment.
+{58937}{58972}I'm so sorry, Donnagon.|How can we help?
+{58974}{59028}Actually,|my children are safe
+{59029}{59103}somewhere in the Gobi Desert,|I believe.
+{59105}{59157}Uh, I'm sorry to say|that Carmen and Juni
+{59159}{59226}are somehow the ones|on the Ukata assignment
+{59227}{59265}a computing error|of some kind.
+{59267}{59302}- Communications?|- None.
+{59304}{59347}Their DragonSpy ship|doesn't show up
+{59348}{59387}on radar or satellite.
+{59389}{59423}- Greg, lngrid,
+{59425}{59489}you guys risked your lives|once before to save me.
+{59491}{59525}Let me go now
+{59527}{59612}and personally bring|your children back.
+{59612}{59641}No. Thank you.
+{59643}{59676}Thank you, Donnagon,
+{59678}{59735}but, respectfully,|we have to do this ourselves.
+{59737}{59789}- If you could provide|tactical backup
+{59790}{59838}and surveillance support|of our efforts,
+{59840}{59870}we'll leave immediately.
+{59872}{59913}Okay, yeah.
+{60099}{60155}Uh, lngrid...
+{60157}{60243}I know this may be|a bad time, but, um...
+{60252}{60310}Your parents are here.
+{60792}{60844}- But you guys told me|you were coming next Tuesday.
+{60846}{60895}This is a very dangerous|assignment,
+{60896}{60933}and you have to wait here.
+{60935}{60963}Well, we want to help.
+{60965}{61029}- Don't worry.
+{61031}{61081}You taught me|everything I know.
+{61083}{61131}Yes...
+{61133}{61224}but not everything we know.
+{61226}{61274}Of course not, Dad.|See you in a few hours.
+{61276}{61325}- Thanks, honey.
+{61611}{61670}I still don't like him.
+{61726}{61729}Juni...
+{61729}{61778}Juni...
+{61780}{61838}was that there before?
+{61909}{61996}That wasn't there|a minute ago, was it?
+{61997}{62061}Are you kicking me?
+{62063}{62094}I'm way over here!
+{62095}{62193}I felt something|against my foot.
+{62194}{62276}There's something under me!|Come look!
+{62291}{62334}I don't see anything, Juni.
+{62336}{62425}Let's just concentrate|on getting to shore.
+{62455}{62520}Okay, it's about 200 yards.
+{62520}{62609}- If we kick steadily|at one foot per kick,
+{62609}{62673}we'll reach it in, um...
+{62675}{62768}- 25 minutes?
+{62769}{62816}- I don't know.
+{62817}{62882}My calculator|doesn't work.
+{62951}{62987}Juni, what did you do?
+{62989}{63046}The air's coming|out of our suits!
+{63048}{63115}We're heading towards shore!
+{63458}{63513}"Travel heavy"!
+{63562}{63603}Good idea!
+{63605}{63642}All right.
+{63644}{63700}Give it a rest.
+{63734}{63801}Okay, we're gonna set up|a campsite,
+{63803}{63875}put up the tent,|build a little fire.
+{63877}{63936}And roast marshmallows?
+{64095}{64133}I can't believe this!
+{64135}{64171}What happened?
+{64173}{64218}- Nothing - that's just it.
+{64220}{64260}That was supposed to make|an instant campfire,
+{64262}{64298}and that was supposed to make|a shelter.
+{64326}{64379}None of our gadgets work.
+{64380}{64450}You mean we have to use|our heads?
+{64452}{64491}Yes.
+{64684}{64735}Big office...
+{64782}{64881}Director|of the O.S.S.'s office.
+{64883}{64939}Big.
+{65405}{65451}Did you find the source|of equal or greater power?
+{65453}{65498}It emanates from the north side|of the island.
+{65500}{65531}Have you located|the Island Man?
+{65533}{65576}He's somewhere underground.
+{65578}{65664}Yeah, well, start digging.|I'm on my way.
+{65873}{65922}Come on, Juni.
+{65924}{65962}Let's go check out the island.
+{65964}{65999}I just set up camp.
+{66001}{66032}See?
+{66112}{66148}Sure wish Gary was here.
+{66150}{66244}He'd want to find out|who was behind all this.
+{66329}{66400}Aw, man!
+{66402}{66463}All right, let's go.
+{66541}{66590}Wow!
+{66592}{66654}This place is amazing!
+{66655}{66710}Check out that rock!
+{66740}{66796}Looks like a hot dog.
+{66820}{66921}Well, I've seen enough.|Let's go back to the beach.
+{66925}{66958}What?
+{66960}{66995}Listen.
+{66995}{67072}- I hear something humming.
+{67168}{67200}Somebody here has power.
+{67202}{67282}We need to find out who|and for what.
+{67324}{67371}- Destination - Ukata.
+{67372}{67476}Estimated time of arrival...|one minute and counting.
+{67511}{67569}How fast are we going?
+{67576}{67606}85 knots.
+{67608}{67667}Well... go faster.
+{67669}{67715}With pleasure.
+{67769}{67814}Faster.
+{67880}{67947}Faster.
+{67948}{67988}Can't go faster.
+{67989}{68016}Faster.
+{68018}{68050}I broke the fast thingy.
+{68076}{68111}Faster!
+{68333}{68389}- All right...
+{68391}{68439}now what?
+{68514}{68590}This is terrific.
+{68592}{68630}You know,|this is just great.
+{68632}{68678}You really did it|this time, Gerti.
+{68679}{68732}Are you kicking me?
+{68732}{68818}- No. I'm way over here,|cheese ball.
+{69482}{69530}I'm gonna zap that sucker|to bits!
+{69532}{69589}- Come here!
+{69702}{69735}Wait!
+{69781}{69819}- Save it for the Cortezes.
+{69821}{69848}Yeah...
+{69850}{69956}Excellent idea.
+{69958}{69959}I don't get it!|I saw it go through this wall.
+{69959}{70027}I don't get it!|I saw it go through this wall.
+{70029}{70076}What's your assessment, Juni?
+{70078}{70161}I'd think better|with food in my belly.
+{70163}{70215}I think we should go up there|and check it out.
+{70217}{70261}Up there...|to the top of the volcano?
+{70262}{70293}Yep.
+{70295}{70358}Not even if my micrograpplers|were working.
+{70360}{70396}Gary would be brave enough|to do it.
+{70398}{70430}Nope.
+{70432}{70515}Nothing you can say|can change my mind.
+{70585}{70664}- What did you just say?|- I didn't.
+{70714}{70772}- Race you to the top!
+{71190}{71233}Ah. Volcano.
+{71263}{71333}Juni, stay back.
+{71374}{71444}It's not active.
+{71506}{71538}Juni!
+{71635}{71680}What are you waiting for?
+{71681}{71717}Get me out of here!
+{71719}{71777}If my|auto retractor was working,
+{71779}{71819}I'd get us both|back up there!
+{71821}{71898}Uh. Okay.|I'm gonna grab your hand.
+{72020}{72052}Okay.
+{72165}{72209}My cellphone!
+{72254}{72297}Why'd you stop?
+{72297}{72325}- Something wrong?
+{72327}{72359}Close your eyes.
+{72361}{72403}Why?
+{72477}{72503}Juni!
+{72505}{72531}What?
+{72532}{72576}I'm sorry!
+{72949}{73010}How long|have we been falling?
+{73012}{73049}I don't know.
+{73050}{73105}My watch doesn't tell time.
+{73107}{73148}Best guess?
+{73150}{73214}I'd say about three hours.
+{73214}{73268}Feels like four.
+{73547}{73619}How could you be eating|at a time like this?
+{73621}{73687}You know that tickling sensation|you get when you fall?
+{73689}{73715}Of course.
+{73716}{73813}That pretty much went away|after the first hour.
+{73937}{73990}What happened?
+{73992}{74060}I don't know!|We're floating!
+{74119}{74165}Who are you?
+{74166}{74220}- Do you see something?|- Over there, hiding.
+{74222}{74251}What do you want?
+{74252}{74291}I want to get down.
+{74293}{74375}I'm Carmen Cortez,|special agent of the O.S.S.
+{74377}{74407}I'm Romero,
+{74409}{74508}sole inhabitant|of this island of Leeke Leeke...
+{74546}{74623}... sole human inhabitant,|that is.
+{74625}{74657}And you are?
+{74659}{74696}Tired and hungry.
+{74698}{74775}Nice to meet you,|Tired and Hungry.
+{74799}{74848}- Careful! You'll crush my island!
+{74850}{74885}Sorry.
+{74887}{74951}We just fell four hours.|We're a little clumsy right now.
+{74953}{75038}You weren't falling.|It was an illusion.
+{75093}{75136}Magic?
+{75241}{75281}Science.
+{75370}{75449}Quickly,|we must get somewhere safe!
+{75651}{75695}I'm a genetic specialist.
+{75697}{75773}I needed a controlled|environment for my experiments.
+{75775}{75829}The creatures|we've been hearing?
+{75830}{75884}My experiments...
+{75886}{75919}run amok.
+{75921}{75967}What happened?
+{76057}{76105}I thought I would make|a fortune from it.
+{76106}{76176}Kids everywhere would have|their own miniature zoos,
+{76177}{76244}- Right there|in their bedrooms.
+{76246}{76310}A miniature zoo?
+{76312}{76398}God's creatures...|on a manageable scale.
+{76549}{76600}Unbelievable.
+{76601}{76662}I called it|"Romero's Zoo"...
+{76664}{76719}- Genetically miniaturized|animals.
+{76721}{76796}Lions, tigers, bears,|penguins...
+{76858}{76895}Monkeys.
+{76929}{76967}Monkeys in a barrel.
+{76969}{77006}Careful.
+{77023}{77060}Careful.
+{77156}{77196}One day,|I accidentally mixed up
+{77198}{77240}two or three|different test tubes
+{77242}{77327}and created|a new species... altogether.
+{77531}{77610}Romero's Zoo Too...
+{77611}{77705}an entirely new...|miniature zoo...
+{77706}{77774}- Where each species|is unlike
+{77775}{77838}any creature|you've ever seen.
+{77840}{77880}Horse-fly?
+{77935}{77982}Uh... cat-fish.
+{78012}{78058}Spider-monkey?
+{78100}{78140}Bull-frog.
+{78157}{78180}Uh...
+{78182}{78209}slizzards.
+{78211}{78264}- Whoa.|- Stay away from those.
+{78266}{78321}- And so, I started to think,
+{78323}{78411}- "lf only I could make|them all a wee bit bigger,"
+{78413}{78495}You know, for kids|with meatier hands.
+{78547}{78602}That's where things went|very wrong.
+{78604}{78644}I applied a growth serum,
+{78645}{78719}and they took to it|all too well.
+{78900}{78932}N-N-No!
+{78934}{78997}No!
+{78999}{79088}And I've been locked up|in here ever since.
+{79106}{79180}I'm afraid to go|out there again.
+{79222}{79312}They've tried to gobble me up|on more than one occasion.
+{79314}{79389}Why do they despise me so?
+{79391}{79448}I created them.
+{79516}{79563}Do you think...
+{79564}{79618}God stays in Heaven
+{79620}{79680}because he, too,|lives in fear
+{79682}{79726}of what he's created...
+{79728}{79776}here on Earth?
+{79778}{79856}Stop looking at me like that.
+{79858}{79890}I'm no loon.
+{79891}{79922}What I'm still trying|to figure out
+{79924}{79967}is why this island|doesn't show up
+{79969}{80016}on even|our most advanced satellites.
+{80018}{80094}I created a cloaking|device to shield my island|from curious eyes.
+{80095}{80164}Anything electronically|powered that comes|within a mile radius
+{80166}{80196}instantly shuts down.
+{80197}{80260}Any radar that passes|over me is displaced,
+{80262}{80335}creating the illusion|that my island doesn't exist.
+{80337}{80381}The Transmooker device.
+{80383}{80424}How did you know?
+{80426}{80473}Your cloaking device|is highly coveted.
+{80475}{80581}People everywhere are trying|to get their hands on it.
+{80624}{80721}Are you sure|we're the only humans here?
+{80839}{80872}There they are
+{80874}{80934}two children,|judging by their size.
+{80936}{80969}What is this?
+{80971}{81042}It's a miniature|of the island.
+{81110}{81172}The center point of|the volcano provides|a gravitational basis
+{81174}{81237}for which|my miniature creatures
+{81239}{81299}can line up exactly|to their larger|clone counterparts.
+{81301}{81372}- So, wherever your miniature|creatures are on this model,
+{81373}{81421}it's where the bigger ones|are outside?
+{81422}{81495}Correct. I can keep track|of their whereabouts this way.
+{81497}{81542}- See?
+{81543}{81606}The two intruder children are|being chased by a slizzard.
+{81607}{81638}- Gary and Gerti.|- Leave'em.
+{81640}{81681}We have to go help them!
+{81682}{81740}They shouldn't be|snooping around my|island to begin with!
+{81742}{81796}- I'm with you, dude.|- We have to help them.
+{81798}{81881}I'm not going out there!|I'll be eaten!
+{81918}{82006}What a bizarre man.
+{82007}{82059}- Help us!|- Help!
+{82059}{82091}Somebody!
+{82093}{82121}What are you guys doing|down there?
+{82123}{82152}That's real funny, clown.|Get us out!
+{82154}{82213}We tried to activate|our micrograpplers,
+{82214}{82249}but they didn't deploy!
+{82251}{82289}Nothing works here.
+{82290}{82357}Yeah, we know that now.|Thanks for the update,|carrot top.
+{82358}{82421}- Juni, come back.|They need our help.|- I'll help them.
+{82423}{82478}I want to get him|back over here
+{82480}{82545}so I can push him|back over myself.
+{82546}{82577}- Hurry up.|- Come on.
+{82579}{82617}Here, Gary.
+{82618}{82667}Gimme your hand.
+{82691}{82743}Thank you, Carmen.
+{82835}{82864}Here, Gerti...
+{82866}{82912}gimme your hand.
+{82914}{82956}Just wait|till my father gets here.
+{82958}{83022}Your father's coming?
+{83111}{83170}Where are you|taking me now, Carmen?
+{83172}{83209}Hold on.
+{83318}{83386}Why are you still hiding?|We're kids, not monsters.
+{83388}{83409}What's the difference?
+{83411}{83475}Relax.|They're O.S.S. agents, as well.
+{83477}{83524}- Level one.|- They're Donnagon's kids.
+{83526}{83562}Agent Donnagon?
+{83564}{83599}You work for the O.S.S.,|don't you?
+{83601}{83642}I work|for a man named Donnagon.
+{83644}{83669}Who is this guy?
+{83671}{83743}- Donnagon's not interested|in your creatures.|- Why not?
+{83744}{83785}The Transmooker device|that hides your island
+{83787}{83817}that's what Donnagon|really wants.
+{83819}{83869}That's not nearly|as interesting.
+{83871}{83915}Now that Donnagon's head|of the O.S.S.,
+{83916}{83965}he has the power|to take it from you.
+{83967}{84006}What are you babbling|about now, Juni?
+{84007}{84041}The Transmooker you took
+{84042}{84089}from the president's|daughter, Gary.
+{84090}{84123}It was just a prototype.
+{84124}{84175}The real Transmooker device|is here on this island.
+{84177}{84210}It's even more powerful
+{84212}{84253}and can shut down|all technology on the planet.
+{84255}{84293}You said|your father's on his way.
+{84295}{84337}I think he's coming|to pick it up.
+{84339}{84374}You're all liars.
+{84375}{84436}Do you really think you're|gonna turn us on our own father?
+{84438}{84485}Did your dad tell you|the mission you went on
+{84487}{84541}was just a setup|for Carmen and me?
+{84543}{84577}- Why not?|- He has his reasons.
+{84578}{84637}That's what being a good spy|is all about
+{84639}{84683}trust no one.
+{84684}{84739}How to Be a Spy...|we've read it.
+{84741}{84777}Well, read it again.
+{84779}{84841}A good spy makes|no binding connections|with family or friends.
+{84843}{84890}Well, I don't believe|in that - do you?
+{84892}{84951}If you want to be a good spy,|you better believe it.
+{84953}{85026}My father's a great spy,|so let's grow up, shall we?
+{85028}{85066}Whatever my father's done,
+{85068}{85110}it's what it takes to play|in the big world...
+{85112}{85163}Iike it or not.
+{85165}{85227}Come on, Gerti.|Let's go.
+{85228}{85266}He's right.
+{85267}{85334}Oh! Why can't you side with me|just once?
+{85335}{85388}There are no sides...|you're right,|and he's right, too.
+{85390}{85440}That's what|being a spy means.
+{85442}{85474}Well, I don't like it.
+{85476}{85510}- Then quit.|- I will.
+{85512}{85555}Yeah, right.
+{85985}{86026}- Donnagon was right...
+{86027}{86098}- Their DragonSpy doesn't|show up anywhere on radar.
+{86100}{86183}I am not interested|in finding the sub.
+{86229}{86265}Remember that year
+{86267}{86343}I insisted on doing the|children's dental work... myself?
+{86345}{86389}How could I forget?
+{86391}{86436}Well...
+{86438}{86504}I installed|a nonelectrical tracking device
+{86506}{86533}in their teeth
+{86535}{86574}my own invention.
+{86576}{86638}But I haven't been able|to test it,
+{86640}{86684}until...
+{86685}{86717}now.
+{86765}{86806}- Honey, it works!|- Whoa...
+{86808}{86873}Hard to believe.
+{86875}{86936}But according to this...
+{86945}{87017}They're in|the middle of the ocean.
+{87019}{87049}Above sea level.
+{87051}{87135}But where they are on the map,|there's no land mass.
+{87137}{87197}- How can that be?
+{87249}{87287}Now what?
+{87324}{87377}Something's got us.
+{87900}{87949}- Aaah!|- What is it?
+{87951}{88002}Your mother.
+{88003}{88067}- Mom?|- We wanted to join you.
+{88069}{88104}Are you nuts?
+{88105}{88147}We needed a bigger boat.
+{88149}{88192}And we brought real food
+{88194}{88287}none of that freeze-dried stuff|you think's so chic.
+{88288}{88333}- Son-in-law.|- Yeah?
+{88335}{88372}Make yourself useful.
+{88374}{88408}Why are you here?
+{88409}{88501}We wanted to help|get our grandchildren back!
+{88529}{88586}We will get|our grandchildren back.
+{88587}{88626}Gracias.|Oh, wait.
+{88628}{88678}- You've got something|on your lip.|- What?
+{88680}{88728}- Got it.
+{88730}{88775}Uh, Mom...
+{88777}{88866}Dad, I am a big girl now,|and I can take care|of myself, okay?
+{88867}{88926}And Gregorio and l,|we can take care of|finding our children.
+{88928}{88982}No, you don't seem|to understand.
+{88984}{89078}This isn't you and Gregorio|simply saving the world again.
+{89079}{89167}This time, we all have much more|to lose if you fail
+{89169}{89212}Carmen and Juni.
+{89214}{89260}You cannot come with us.
+{89262}{89301}It is too dangerous.
+{89303}{89399}Oh, you mean,|we can't handle ourselves,
+{89634}{89693}May I have|my moustache back...
+{89694}{89735}please?
+{89765}{89842}If Donnagon really is|on his way...
+{89867}{89955}... we have to destroy|the Transmooker.
+{89957}{89993}Where is it?
+{89995}{90076}The other side of the island.|Not easy to get to.
+{90078}{90117}The journey alone
+{90119}{90181}is more dangerous than|the Transmooker itself.
+{90183}{90223}- I made sure of it.
+{90225}{90263}Show us.
+{90265}{90326}You're not going out there,|are you?
+{90328}{90383}We don't have much choice,|do we?
+{90385}{90420}With those monsters|running around?
+{90421}{90463}I don't believe|they're monsters.
+{90464}{90501}Maybe you shouldn't, either.
+{90502}{90554}- Well, what should I believe?|- I don't know.
+{90556}{90592}You're always in here hiding.
+{90594}{90641}Maybe they|just wanna be with you.
+{90642}{90671}Be with me?
+{90673}{90720}They wanna be picking me|out of their teeth,
+{90722}{90751}is what they wanna be.
+{90752}{90803}You just gotta show them|who's boss.
+{90805}{90857}You're not afraid?
+{90873}{90944}First thing|you gotta do is...
+{90984}{91043}... fall into this pit.
+{91110}{91153}How does it work?
+{91155}{91235}Supposedly,|they're run magnetically.
+{91261}{91359}We should be able to ride over|a determined path.
+{91564}{91638}We have to get the Transmooker|before they do.
+{91640}{91678}Right.
+{91881}{91921}Slizzards.
+{91921}{91969}Oh, no.
+{92188}{92232}This is cool.
+{92388}{92410}Juni!
+{92412}{92451}Juni!
+{92453}{92512}- I think we should|get off now.
+{92514}{92539}Why?
+{92540}{92578}Trust me!
+{92635}{92680}Jump now!
+{92892}{92939}Gary and Gerti.
+{92939}{93018}I told you|they were following us.
+{93180}{93232}You have one new message.
+{93234}{93264}Message one...
+{93266}{93315}Hello, Alexandra,|it's me
+{93316}{93352}agent Juni Cortez.
+{93354}{93391}I'm on a mission...
+{93392}{93435}I know I shouldn't be.
+{93436}{93504}But I had an idea|for you and your father.
+{93506}{93552}Simply tell him|you need to talk to him.
+{93554}{93613}Tell him it's nothing urgent,
+{93615}{93670}but someday|it might be urgent.
+{93672}{93756}And you need to open the|communication lines right now.
+{93758}{93815}So give me a call.|Love to hear from you.
+{93817}{93851}And right now it's about
+{93853}{93917}Silly me, I forgot my watch|doesn't tell time.
+{93919}{93962}Heh.|And, uh
+{93976}{94019}Something's wrong.|Take the wheel.
+{94020}{94067}Gotta go. Good luck!
+{94067}{94144}- Juni!|- Computer: End of message.
+{94249}{94338}- Gregorio, the signal requires|that you go around it.|- He won't listen to you.
+{94340}{94410}- He won't listen to you,|Mother.|- Choose another directi
+{94412}{94495}- He wants to make sure|he loses the children again.
+{94497}{94555}If you would only listen to us|and do what we're saying
+{94557}{94598}you're tracking them|all wrong.
+{94600}{94656}Ingrid, tell him|he's tracking them all wrong.
+{94658}{94702}Mom, Dad,|I have told you before,
+{94704}{94764}and I will tell you again...|no backseat driving.
+{94766}{94854}- Thank you.|- When Gregorio is at the wheel,|no one tells him what to do.
+{94896}{94946}Turn here, honey.
+{94968}{94990}Sorry.
+{94992}{95028}Okay.
+{95030}{95125}- You're sure you're|reading that map correctly?
+{95125}{95173}The coordinates correspond
+{95175}{95248}to Carmen and Juni's|current position.
+{95250}{95292}These are my children.
+{95293}{95360}And I will find them my way!
+{95390}{95418}Blah, blah, blah.
+{95420}{95480}I never understand|a single word he's saying.
+{95481}{95511}Never.
+{95513}{95550}Not only were we set up,
+{95552}{95608}but I bet Donnagon|knew all along
+{95610}{95692}that you'd hack your way|into taking this assignment.
+{95694}{95766}I was wondering|the same thing.
+{95810}{95840}Juni, open up.
+{95842}{95880}What?
+{95882}{95991}- Dad installed these trackers|in case we ever got lost.
+{96111}{96189}Hurry. Take mine out.
+{96191}{96255}And why are we doing this?
+{96358}{96407}When we get lost,|who saves us?
+{96409}{96452}Mom and Dad.
+{96453}{96494}Now, if Mom and Dad|also disappear,
+{96496}{96561}who's gonna stop Donnagon from|using the Transmooker device?
+{96563}{96600}Donnagon wants us|all together
+{96602}{96658}so he can destroy the island|and all of us with it.
+{96660}{96728}Mom and Dad - even Romero.
+{96730}{96799}We can't let Mom and Dad|find us...
+{96801}{96853}or Donnagon wins.
+{96855}{96924}- A big sacrifice.
+{96925}{96980}Family is sacrifice.
+{97082}{97115}What happened?
+{97117}{97191}What did...|what did you just do?
+{97258}{97305}We lost Carmen.
+{97339}{97401}- A-And Juni?
+{97402}{97458}Juni's still on-line.
+{97502}{97553}I love you.
+{97653}{97707}That can't be.
+{97752}{97843}- Okay, okay.|What do we do?
+{97949}{97993}I don't know.
+{98235}{98267}Maybe this is like
+{98269}{98329}the mission of the spies|who didn't want to be found.
+{98359}{98390}You know...
+{98391}{98455}if they|don't want to be found,
+{98457}{98536}maybe their position|is compromised.
+{98715}{98839}Now, Gregorio, don't tell me|you didn't have a backup plan.
+{98867}{98958}Ingrid, was Juni wearing|that charm necklace
+{98959}{99028}I sent him for Christmas|last year?
+{99030}{99075}He never takes it off.
+{99076}{99104}Then we got him.
+{99105}{99214}I was worried about|Juni's well-being,
+{99216}{99357}so I put a tracer|in his necklace.
+{99385}{99423}There he is.
+{99425}{99459}Thanks, Dad.
+{99461}{99529}Are you sure you don't want me|to take over the wheel?
+{99530}{99558}I - that's funny.
+{99560}{99619}- It's funny.
+{99804}{99848}Back to work.
+{99850}{99894}Where are we?
+{99894}{99922}Well...
+{99924}{100016}not far from|the antechamber.
+{100017}{100078}I think it's behind us.
+{100262}{100287}Don't move.
+{100289}{100344}Maybe it's friendly.
+{100382}{100432}Maybe it's not.
+{100469}{100522}Let's go!
+{100907}{100947}It's an underwater cave.
+{100949}{101005}We'll have to go|all the way around.
+{101006}{101051}That'll take all day.
+{101053}{101111}There must be a faster
+{101448}{101496}Wow...
+{101497}{101564}What is this place?
+{101636}{101708}Do you think|that's real gold?
+{101710}{101761}Gross!
+{101763}{101824}This is so slimy.
+{101825}{101872}I hate mold.
+{101874}{101920}I can hear your thoughts.
+{101922}{101958}What?
+{101960}{102004}And you can hear mine!
+{102006}{102044}Our mouths aren't moving,
+{102046}{102104}but we can hear|what we're thinking.
+{102106}{102152}Say something.
+{102199}{102266}How strange.
+{102268}{102336}We can only communicate|by thought.
+{102338}{102375}- Magic.
+{102375}{102412}Think something.
+{102413}{102471}Um... your feet stink.
+{102507}{102562}I wonder.
+{102710}{102800}Okay, this place|is really weird.
+{102801}{102828}Let's go.
+{102830}{102876}Good thinking.
+{102982}{103066}Now, this is more like it.
+{103068}{103149}Treasure.
+{103229}{103277}Skeletons.
+{103279}{103336}Dead skeletons.
+{103338}{103399}Is there any other kind?
+{103535}{103662}This must've been where|the pirate prisoners|and treasure were kept.
+{103871}{103946}This must've been|a pretty special necklace
+{103948}{104002}for them to die|fighting over it.
+{104004}{104058}One necklace|to rule them all
+{104059}{104088}Put it back, Juni!
+{104089}{104123}I didn't take it yet.
+{104125}{104176}I can read your mind,|remember?
+{104178}{104232}This land|is ancient and cursed.
+{104234}{104293}If you take anything,|you'll doom us both.
+{104294}{104340}Let's go!
+{105011}{105077}Come on!|I think I found a way out.
+{105079}{105112}Which way?
+{105113}{105182}I don't know, you pick...|right or left?
+{105184}{105237}Right.
+{105344}{105391}Wait a minute.
+{105393}{105418}Oh, no!
+{105420}{105480}We went in a circle.
+{105482}{105505}What?
+{105507}{105530}Come on.
+{105532}{105585}Let's try it again.
+{105629}{105703}Come on, Juni!|I know what we did wrong.
+{105704}{105777}We've gotta go left.
+{105834}{105884}Maybe I should|put this back.
+{105886}{105909}Uh-oh.
+{105911}{105979}Where are|the dead skeletons?
+{106173}{106222}Carmen!
+{106433}{106477}Juni!
+{106604}{106651}Help me!
+{106866}{106912}Hey, bonehead!
+{106965}{106993}Wh
+{107100}{107158}Oh, no.
+{107319}{107357}Why is this happening?
+{107359}{107403}I don't know!
+{107537}{107561}Wait a minute!
+{107562}{107615}You took something,|didn't you?
+{107616}{107681}No!|Y-Y-You told me not to!
+{107695}{107738}Why would l?
+{107795}{107852}Juni!
+{107854}{107889}Carmen!
+{108079}{108111}Wait.
+{108235}{108275}I'm sorry.
+{108490}{108526}Carmen!
+{108528}{108589}Carmen!
+{108764}{108807}You too,
+{108808}{108845}Yeah.
+{108875}{108931}Where's your brother?
+{108932}{108952}Did he get eaten?
+{108954}{109050}No. He's out there|looking for Juni.
+{109052}{109111}You know he squashed|Juni's bug on purpose.
+{109112}{109161}Yeah, I know.
+{109163}{109210}Now he wants to squash Juni.
+{109212}{109300}Don't you think|we should get out of here?
+{109426}{109535}Carmen!
+{109537}{109576}I'm dreaming.
+{109578}{109641}I am totally dreaming.
+{109694}{109759}And I'm hungry, too.
+{110078}{110142}You like honey-roasted ham|and potatoes, don't you?
+{110144}{110199}- That's what flavor this is.
+{110201}{110253}Highly nutritious.
+{110253}{110339}Packed with protein|and essential carbs.
+{110434}{110511}Everything|a growing centaur needs.
+{110524}{110571}You're welcome.
+{110767}{110849}Well, well, well.|Your friend likes freeze-dried.
+{110850}{110894}So does mine.
+{111129}{111215}All right, buddy.|Let's kick their butts.
+{111230}{111279}- Heh heh heh.|We're waiting.
+{111281}{111318}Come on.
+{111319}{111414}- Can't let you bust up|my dad's machine, Juni.
+{111476}{111534}So I guess I'll just have to|bust you up.
+{111535}{111564}We can take'em.
+{111566}{111612}Come on, buddy.|We can take'em.
+{111614}{111711}I don't think|we can take'em!
+{111827}{111886}Must try and help them.
+{111896}{111932}Must.
+{111934}{111995}So, even if your dad is|behind all this,
+{111997}{112063}you'd still side with him|over what's right?
+{112065}{112131}Right? How do you ever know|what's right?
+{112133}{112160}Trust me,
+{112161}{112238}when the moment comes,|you'll know.
+{112340}{112405}I think that moment's come.
+{112630}{112672}Come on!
+{112674}{112745}Show'em who's boss.
+{112747}{112809}Show'em who's boss.
+{112811}{112855}I'm the boss.
+{112970}{113010}I'm the...
+{113362}{113406}- Look out!
+{113475}{113525}Forward, go, man.
+{113725}{113782}Come on, spidey.|You can do it.
+{113783}{113831}- Yeah!
+{114146}{114207}Your creature's lame.
+{114209}{114264}So are you, lame-o.
+{114266}{114311}It's all over|for you, squirt.
+{114313}{114414}Too bad your dork sister's|not here to cheer me on.
+{114463}{114507}- Hey!
+{114632}{114679}Ya-a-a-a-a-a-h!
+{115164}{115211}I don't want to hurt you,|Carmen.
+{115213}{115293}You're so full|of shiitake mushrooms.
+{115373}{115428}Put it down, Carmen.
+{115465}{115508}Put it down.
+{115672}{115722}Okay.
+{115724}{115791}All right.
+{115793}{115842}Gerti,|a little assistance here.
+{115844}{115900}Don't look at me, brother.|You're fighting a girl.
+{115902}{115954}You're gonna lose.
+{116065}{116114}I'm siding with you.
+{116116}{116159}Thanks.
+{116161}{116214}But just this once.
+{116338}{116376}Cortezes.
+{116567}{116629}You gonna help me or not?
+{117175}{117232}Well, there it is.
+{117234}{117287}How do you know?
+{117289}{117374}'Cause it's big and weird|and in the middle of the room.
+{117376}{117417}Good point.
+{117602}{117627}Careful, Juni!
+{117629}{117665}If you don't|shut it down right,
+{117667}{117711}you can bring the entire world|to an end.
+{117713}{117738}Thanks.
+{117739}{117766}I'm serious.
+{117768}{117838}Well, we have to|shut it down.
+{117851}{117906}This turns that off.
+{117931}{117992}And that turns this off.
+{118032}{118141}He said there's something tricky|about the third switch.
+{118192}{118232}Let's see.
+{118256}{118319}Too late, Gary.|We got here first.
+{118321}{118367}Just stand up against the wall|like a good boy
+{118369}{118399}and leave us alone.
+{118400}{118489}Nice try, but we brought|friends this time.
+{118498}{118523}Romero.
+{118525}{118572}What are you doing|outside of your cage?
+{118573}{118620}I have no idea.
+{118675}{118700}Donnagon.
+{118702}{118735}Hello, agents.
+{118737}{118793}Warming it up for me?
+{118804}{118872}Are you ready to cooperate|this time, Romero?
+{118874}{118908}- I...|- Good.
+{118910}{119015}This should be pain...|and simple.
+{119075}{119111}What did you do?
+{119113}{119151}He started the Transmooker!
+{119152}{119215}You said three switches.
+{119217}{119289}The entire world|will shut down instantly.
+{119291}{119325}Good going, cheese ball.
+{119326}{119357}What do we do?
+{119359}{119457}You must bind together|the three toggle switches.
+{119518}{119556}It won't stay up!
+{119558}{119609}- Machete elastic wonder!|- Machete elastic wonder!
+{119611}{119658}Here - grab it!
+{119790}{119849}Give it to me.|Give it!
+{119851}{119881}Dad...
+{119883}{119929}Give it to me.
+{119944}{119993}Give it to me...
+{120030}{120073}... or else.
+{120073}{120132}Give it to him, Carmen.
+{120275}{120300}Where'd it go?
+{120301}{120334}Where'd it go?
+{120336}{120370}I don't know.
+{120372}{120407}The spork took it.
+{120408}{120471}Back to its... nest.
+{120500}{120539}I know|where the nest is, Dad.
+{120569}{120640}I also have Romero's|instruction book.
+{120642}{120669}Hey.
+{120671}{120711}Brat.
+{120713}{120759}Come on!
+{121097}{121165}It's just over that big hill.
+{121195}{121265}Are you sure this is|the right way?
+{121266}{121325}My watch has a GPS satellite,|you dope.
+{121327}{121360}Wait a minute.
+{121362}{121396}How can this be?
+{121398}{121439}When you took out|the Transmooker,
+{121441}{121489}the island cloaking device|was shut down.
+{121491}{121562}Then what are we doing|on foot?
+{121565}{121616}Later, Romero.
+{121950}{121973}There it is!
+{121975}{122015}Get up there, Dad!|Come on!
+{122017}{122051}Okay, Magna Men,
+{122052}{122139}we're gonna need a human ladder|starting right... here.
+{122141}{122179}- Carmen!
+{122379}{122401}What?
+{122403}{122486}An agent's only as good|as her gadgets.
+{122688}{122758}They're heading|for the beach.
+{122993}{123035}Help!
+{123390}{123449}The kid was right.
+{123939}{123987}- What are you doing?
+{123989}{124030}Trying to remote-pilot|our submarine to the surface
+{124032}{124065}so we can get out of here.
+{124066}{124160}Get on your GPS|and see where Mom and Dad are.
+{124201}{124234}This can't be right.
+{124236}{124322}This shows that|they're right next to us.
+{124446}{124481}Oh, no!
+{124481}{124532}That's no way|to greet your grandparents.
+{124534}{124564}Come on.
+{124566}{124596}Grandpa!
+{124598}{124658}Ah, Juni.
+{124660}{124716}Come here, come here.
+{124769}{124860}Always take this with you|wherever you go,
+{124862}{124909}and I'll always be there.
+{124911}{124964}I promise, Grandpa.
+{124981}{125025}Not you guys!
+{125036}{125080}You don't want to be rescued.
+{125082}{125125}You don't want to be saved.
+{125127}{125163}That's all right.
+{125165}{125219}We thought you might...|you might need us.
+{125221}{125261}Go talk to your father.
+{125263}{125306}- Dad!|- Hey, Mom.
+{125308}{125356}- Come on, Dad. Look at me.|- Two spies|who didn't want to be found?
+{125358}{125392}- Yes.|- Yes. I like your thinking.
+{125394}{125446}But you know what? Those spies|didn't have me for a mom.
+{125448}{125480}- Come on.|- Thank you.
+{125482}{125513}Hey.
+{125550}{125606}I'll always need you.
+{125652}{125677}Come on.
+{125679}{125715}Carmen Elizabeth Juanita...
+{125717}{125759}Come here to your papa.
+{125761}{125790}You okay, hon?
+{125791}{125833}All right. Information.|Quick.
+{125835}{125882}Okay, we have|the Transmooker device,
+{125884}{125935}but we need to get off|this island right now.
+{125937}{126026}What do you think|we're here for? Let's go.
+{126033}{126076}We'll explain it on the way.
+{126078}{126157}You won't believe|who's behind this.
+{126157}{126226}It couldn't be|any more perfect.
+{126228}{126290}This better not be|what I think it is.
+{126292}{126357}It's all being taken care of,|all right?
+{126359}{126404}Get the Transmooker device,|Felix.
+{126405}{126456}Felix?
+{126458}{126507}Sorry, Gregorio.
+{126732}{126769}A little power goes|a long way, doesn't it?
+{126815}{126867}Reprogram this one, Gerti.
+{126869}{126941}I want to start by wiping|the Cortez family
+{126943}{126981}from the face of the Earth.
+{126982}{127016}Uncle Felix, how could you?
+{127017}{127060}I'm not your uncle.
+{127062}{127103}But we treated you|like family.
+{127105}{127151}Donnagon said if I joined him
+{127152}{127239}he - he wouldn't get rid of me|like he's gonna do to you guys.
+{127241}{127277}You can't argue with that.
+{127278}{127322}Do you still have power|in your watch?
+{127324}{127370}- Yep.
+{127372}{127418}Programming complete, Father.
+{127420}{127446}Thank you, Gerti.
+{127448}{127522}Try remote-piloting|the choppers.
+{127563}{127654}Well, Cortezes,|any last words?
+{127656}{127697}None that I can say|in front of my children.
+{127699}{127764}Not to mention your mother.
+{127949}{128036}Let's settle this|the old-fashioned way.
+{128080}{128129}- Kick his butt!|- Yeah, kick his butt!
+{128148}{128197}- Not like that.
+{128235}{128273}Headbutt.
+{128470}{128514}Sleeper hold.
+{128571}{128609}Use his own weight|against him.
+{128611}{128643}Yeah.
+{128757}{128788}Ah, get up!
+{128790}{128826}Do what I showed you|last night!
+{128852}{128887}Suplex.
+{129014}{129070}- Even I can fight better|than that.|- Mom!
+{129072}{129138}Triple backflip!
+{129843}{129891}Gerti?
+{129893}{129920}What did you...
+{129922}{129961}Why?
+{129963}{130007}Oh, don't even|get me started.
+{130009}{130044}Just wait till Mom finds out
+{130046}{130100}you tried to take over|the world again.
+{130102}{130146}No.|Please, please, please.
+{130148}{130213}D-Don't tell your mother.
+{130215}{130250}Please?
+{130930}{130958}Uh, hello.
+{130960}{131027}Hello, there, Mr. President.
+{131044}{131104}By order of the president,
+{131106}{131182}you've been|temporarily disavowed.
+{131334}{131378}You're fired.
+{131423}{131490}Looks like I lost this round,|but I'll be back.
+{131492}{131531}Hopefully, you're on|the good side next time.
+{131533}{131583}We'll see, but...
+{131609}{131668}... you never know.
+{131670}{131709}Don't worry.
+{131711}{131773}He gets out of line,|I'll straighten him out.
+{131775}{131821}You go, Gerti.
+{131938}{131997}You tried to save us.
+{131999}{132030}Why?
+{132192}{132256}Because you are my family.
+{132276}{132335}You know...
+{132337}{132382}there isn't|a man on this Earth
+{132384}{132454}we'd ever think would be|good enough for our daughter,
+{132455}{132485}but, um...
+{132487}{132550}You come pretty close.
+{132683}{132724}By order of the president,
+{132726}{132794}you are the new director|of the O.S.S.
+{132796}{132862}Congratulations.
+{132864}{132888}Do
+{132890}{132933}are they
+{133063}{133118}Level one.
+{133147}{133182}No, thanks.
+{133184}{133226}You don't want it?
+{133228}{133263}I'm leaving the O.S.S.
+{133265}{133342}I've seen what it takes|to be a top spy,
+{133343}{133425}and I think I can be|better use to the world
+{133427}{133520}by just being the best... me.
+{133522}{133574}But what about|all the cool gadgets?
+{133576}{133645}I got the best gadget|right here.
+{133646}{133769}Use number one...|a stylish bracelet.
+{133771}{133803}See ya around?
+{133805}{133850}Yes.
+{134013}{134049}Go ahead. Say it.
+{134051}{134078}What?
+{134080}{134155}I told you so.
+{134185}{134219}Never.
+{134261}{134293}Wait.
+{134327}{134369}Uh...
+{134423}{134454}Thank you.
+{134456}{134506}You got it, boss.
+{135766}{135809}- Carmen!|- Carmen!|- Carmen!|- Carmen!
+{135811}{135871}- Carmen!|- Carmen!|- Carmen!|- Carmen!
+{135873}{135926}- Carmen!|- Carmen!|- Carmen!|- Carmen!
+{135928}{135974}- Carmen!|- Carmen!|- Carmen!|- Carmen!
+{135976}{136014}I am not going out there.
+{136015}{136043}Oh, yes, you are.
+{136044}{136081}You're a spy,|you're undercover,
+{136083}{136139}and you have to make them|think you're a pop star.
+{136141}{136173}I can't sing.
+{136174}{136207}Who can these days?
+{136208}{136272}I can't tell you|how many artists have used
+{136274}{136320}my Machete miracle microphone.
+{136322}{136385}# I can't sing #
+{136387}{136442}This'll make you dance|like Britney Lopez.
+{136444}{136481}Hey, what about me?
+{136483}{136561}This'll make you play|like Angus Van Santana.
+{136563}{136585}Cool.
+{136587}{136652}Now get out there and rock!
+{136665}{136714}# Who, what,|when, where, and why? #
+{136716}{136760}# Do I delight in #
+{136761}{136844}# What do I intend|to find this time? #
+{136846}{136896}# Run around, jumping down,|bounce and bound and... #
+{136898}{136941}# Find another way to duck|and hide #
+{136943}{136986}# This isle of #
+{136988}{137037}# Dreams #
+{137039}{137063}# Dreams #
+{137064}{137102}- # Isle of, isle of #|- # Dreams #
+{137104}{137142}- # Island of #|- # Dreams #
+{137144}{137221}- # Isle of, isle of #|- # Dreams #
+{137248}{137286}- # Isle of, isle of #|- # Dreams #
+{137288}{137330}- # Island of #|- # Dreams #
+{137332}{137425}# Isle of, isle of #
+{137427}{137474}Who?
+{137476}{137508}What?
+{137525}{137557}When?
+{137571}{137611}# Dreams #
+{137612}{137654}Where?
+{137694}{137726}When?
+{137742}{137780}And why?
+{138141}{138204}# Who, what,|when, where, and why? #
+{138206}{138236}# Do I delight in #
+{138238}{138328}# What do I intend|to find this time? #
+{138330}{138372}# Run around, jumping down,|bounce and bound and... #
+{138374}{138407}# Find another way to duck|and hide #
+{138408}{138468}# This isle of... #
+{138470}{138510}# Dreams #
+{139472}{139497}# Dreams #
+{139499}{139538}- # Isle of, isle of #|- # Dreams #
+{139540}{139586}# Island of #
+{139588}{139650}- # Isle of, isle of #|- # Dreams #
+{139652}{139681}# Dreams #
+{139683}{139729}- # Isle of, isle of #|- # Dreams #
+{139730}{139774}# Island of #
+{139774}{139829}# Isle of, isle of #
+{140141}{140212}- Whoo!|- Whoo!|- Whoo!|- Whoo!
+{140316}{140381}What, are you surprised|your gadgets work?
+{140382}{140482}I just realized I never put|any batteries in this.
+{140716}{140758}Action.
+{140872}{140915}Back to one.
+{140969}{140991}Ready.
+{140993}{141036}Yeah, but...
+{141063}{141102}Guys, we're looking at light|on her face.
+{141104}{141136}Oops.
+{141183}{141257}My precious.
+{141259}{141302}We're nearing|the destination zone,
+{141303}{141331}where all
+{141332}{141370}No. And then|the next sentence is
+{141372}{141413}"The location radius|where all the disappearances."
+{141415}{141437}Okay.
+{141439}{141481}We're nearing|destination zone.
+{141482}{141571}The location radius|where all the disappear
+{141583}{141617}Stop!
+{141618}{141652}Okay.
+{141654}{141698}We're nearing|destination zone,
+{141699}{141749}where all the dis
+{141763}{141792}Stop!
+{141793}{141858}I know it.|I don't know it.
+{141861}{141918}Juni, take wheel!
+{141920}{141960}What is...
+{142004}{142045}What is it?
+{142145}{142195}Okay, what is it?
+{142508}{142554}Okay.
+{142771}{142818}Well, well, well, well, whoo!
+{142819}{142869}Man, you're not an easy man|to find,
+{142871}{142933}you and your island|of Leeke Leeke.
+{142935}{142995}I'm Dinky. Winks, that is.
+{142997}{143047}Heard you had a wild place here,|and, well, sir,
+{143049}{143087}I was thinking|you might be interested
+{143088}{143144}in a little,|business proposition.
+{143146}{143182}You ready?
+{143184}{143219}Theme park.
+{143220}{143247}Think about it.
+{143248}{143277}Families on safari,
+{143279}{143367}crazy critters|running all over the place.
+{143373}{143425}Hey, there, fella.
+{143539}{143615}You can see it already,|can't you?
+{143622}{143653}We'd be great together.
+{143655}{143700}What do you say?
+{143748}{143948}<<revised edition by PAULO ™>>
+{143848}{143948}>> Napisy pobrane z http://napisy.org <<|>>>>>>>> nowa wizja napisów <<<<<<<<
